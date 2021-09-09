@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     width: 200px;
-    background-color: #96aaeb;
+    background-color: rgba(150,170,235, 0.5);
     position: fixed;
     height: 100%;
     overflow: auto;
@@ -16,7 +16,7 @@
   }
    
   .sidebar a.active {
-    background-color: #004182;
+    background-color: rgba(0,65,130, 0.5);
     color: white;
   }
   
