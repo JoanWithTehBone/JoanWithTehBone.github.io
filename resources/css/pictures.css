@@ -1,0 +1,25 @@
+/* This Stylesheet is dedicated to the different sizes of images used in the site */
+
+/* Creates the second background ontop of the original one, showing an image of choice */
+body {
+    background-image: url('https://cdn.discordapp.com/attachments/445458806571270145/885068376576233512/163108641354515917_1.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: 30px;
+}
+
+/* Settings for profile images */ 
+div.profile-image {
+    float:left; 
+    margin: 40px;
+}
+
+/* Settings for the smaller scale images */
+div.smaller-image {
+    width: 500px;
+}
+
+/* Settings for the tiniest of images */ 
+div.tiny-image {
+    width: 300px;
+}
