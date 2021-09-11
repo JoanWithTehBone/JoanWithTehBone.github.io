@@ -12,3 +12,7 @@
     margin-left: 550px;
   }
   
+  /* All h2 font sizes needed to be just a little bigger */
+  h2 {
+    font-size: 32px;
+  }
