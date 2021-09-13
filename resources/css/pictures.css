@@ -9,17 +9,21 @@ body {
 }
 
 /* Settings for profile images */ 
-div.profile-image {
+.profile-image {
     float:left; 
     margin: 40px;
+    
+    border-radius: 150px;
+    
 }
 
 /* Settings for the smaller scale images */
-div.smaller-image {
+.smaller-image {
     width: 500px;
 }
 
 /* Settings for the tiniest of images */ 
-div.tiny-image {
+.tiny-image {
     width: 300px;
 }
+
