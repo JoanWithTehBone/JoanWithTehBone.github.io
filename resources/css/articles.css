@@ -1,0 +1,12 @@
+.article {
+    background-color: rgba(150,170,235, 0.6);
+    margin-right: 175px;
+    margin-bottom: 25px;
+    padding: 12px;
+
+    border-radius: 10px;
+    border-color: darkblue;
+    border-width: 2px;
+    border-style: solid;
+}
+
