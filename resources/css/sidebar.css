@@ -31,6 +31,11 @@
   color: white;
 }
 
+.sidebar a.bottom {
+  position: fixed;
+  bottom: 0;
+  
+}
 /* Set a parameter for the rest of the page, so it doesn't overlap with the sidebar */
 div.content {
   margin-left: 200px;
