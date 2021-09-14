@@ -10,12 +10,21 @@ body {
 
 /* Settings for profile images */ 
 .profile-image {
-    float:left; 
-    margin: 40px;
-    
     border-radius: 150px;
     
 }
+.right-side{
+    
+        float:right; 
+        margin: 10px;
+        
+        
+}
+.left-side{
+    float:left;
+    margin: 10px;
+}
+
 .medium-image {
     width: 600px;
 }
@@ -28,5 +37,6 @@ body {
 /* Settings for the tiniest of images */ 
 .tiny-image {
     width: 300px;
+    margin: 30px
 }
 
