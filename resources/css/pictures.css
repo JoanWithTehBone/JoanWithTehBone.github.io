@@ -16,6 +16,9 @@ body {
     border-radius: 150px;
     
 }
+.medium-image {
+    width: 600px;
+}
 
 /* Settings for the smaller scale images */
 .smaller-image {
