@@ -1,9 +1,11 @@
   /* The main stylesheet containing all the settings for the main screen of the pages */
-
+  @import url(https://fonts.googleapis.com/css?family=Aclonica);
+  
   body {
     margin: 0;
     height: 250vh;
-    font-family: "Lato", sans-serif;
+    font-family: 'Aclonica';
+    font-size: 22px;
     background-color:whitesmoke;
   }
 
@@ -16,5 +18,10 @@
   h2 {
     font-size: 32px;
   }
+
+
+  
+
+
 
  
