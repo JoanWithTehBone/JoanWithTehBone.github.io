@@ -1,6 +1,7 @@
   /* The main stylesheet containing all the settings for the main screen of the pages */
   @import url(https://fonts.googleapis.com/css?family=Aclonica);
-  
+  @import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css
+  );
   body {
     margin: 0;
     height: 250vh;
@@ -19,6 +20,12 @@
     font-size: 32px;
   }
 
+
+  /* All font logo's should be bigger than the normal text */ 
+  .bigger_logos {
+    margin-left: 225px;
+    font-size: 144px;
+  }
 
   
 
